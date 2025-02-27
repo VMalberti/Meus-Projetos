@@ -1,0 +1,17 @@
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\bin\Debug\net6.0-windows\prjFolhaPagamento.exe
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\bin\Debug\net6.0-windows\prjFolhaPagamento.deps.json
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\bin\Debug\net6.0-windows\prjFolhaPagamento.runtimeconfig.json
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\bin\Debug\net6.0-windows\prjFolhaPagamento.dll
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\bin\Debug\net6.0-windows\prjFolhaPagamento.pdb
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.Form1.resources
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.csproj.GenerateResource.cache
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.AssemblyInfoInputs.cache
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.AssemblyInfo.cs
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.csproj.CoreCompileInputs.cache
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.dll
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\ref\prjFolhaPagamento.dll
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.pdb
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.genruntimeconfig.cache
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\refint\prjFolhaPagamento.dll
+D:\folhaPagamentoRangel\prjFolhaPagamento\prjFolhaPagamento\obj\Debug\net6.0-windows\prjFolhaPagamento.csproj.AssemblyReference.cache
